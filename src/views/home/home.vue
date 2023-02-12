@@ -14,11 +14,13 @@ export default {
     
     };
   },
-  components: {
-
-  },
   methods: {
   },
+  components: {
+      msg(){
+        return 1111
+      }
+},
   created() {},
 };
 </script>
