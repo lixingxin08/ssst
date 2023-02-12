@@ -20,6 +20,9 @@ export default {
       msg(){
         return 1111
       },
+
+      tis(){return 5555},
+
       sss(){return 2222}
 },
   created() {},
