@@ -20,9 +20,8 @@ export default {
       msg(){
         return 1111
       },
-
       tis(){return 5555},
-
+      yyyy(){return 4444},
       sss(){return 2222}
 },
   created() {},
