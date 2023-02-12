@@ -65,6 +65,7 @@ export default {
     getcode(val) {
       console.log(val, 77777);
     },
+    ccc(){},
     change(type) {
       this.logintyoe = type;
       this.form.name = "";
