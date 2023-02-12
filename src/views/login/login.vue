@@ -66,6 +66,7 @@ export default {
       console.log(val, 77777);
     },
     ddd(){},
+    ccc(){},
     change(type) {
       this.logintyoe = type;
       this.form.name = "";

@@ -22,6 +22,9 @@ export default {
       },
       tis(){return 5555},
       yyyy(){return 4444},
+
+      vvvv(){return 5555},
+
       sss(){return 2222}
 },
   created() {},
