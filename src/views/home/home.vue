@@ -19,7 +19,8 @@ export default {
   components: {
       msg(){
         return 1111
-      }
+      },
+      sss(){return 2222}
 },
   created() {},
 };
